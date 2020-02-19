@@ -1,15 +1,7 @@
 # poem-generator
 Generates rhyming poetry using Huggingface GPT-2
 
-import torch
-
-from transformers import GPT2Tokenizer, GPT2LMHeadModel
-
-import torch.nn.functional as F
-
-import pickle  
-
-import copy
+requires torch, transformers, pickle, and copy
 
 To get started quickly, replace the line 
 
