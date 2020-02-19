@@ -1,0 +1,769 @@
+t:256;IY1
+a:257;
+the:262;
+s:264;EH1 S
+w:266;AH1 B AH0 L Y UW0
+o:267;OW1
+c:269;IY1
+b:275;IY1
+f:277;EH1 F
+p:279;IY1
+an:281;AE1 N
+to:284;UW1
+m:285;EH1 M
+of:286;AH1 V
+in:287;
+d:288;IY1
+h:289;EY1 CH
+and:290;
+th:294;IY1 EY1 CH
+n:299;EH1 N
+l:300;EH1 L
+re:302;EY1
+e:304;IY1
+be:307;IY1
+g:308;IY1
+is:318;IH1 Z
+on:319;AA1 N
+that:326;AE1 T
+for:329;AO1 R
+y:331;AY1
+u:334;UW1
+he:339;IY1
+it:340;IH1 T
+you:345;UW1
+with:351;IH1 DH
+as:355;AE1 Z
+we:356;IY1
+con:369;AA1 N
+was:373;AA1 Z
+r:374;AA1 R
+at:379;AE1 T
+se:384;EY1
+pro:386;OW1
+ha:387;AA1
+are:389;AA1 R
+de:390;IY1
+or:393;AO1 R
+com:401;AA1 M
+not:407;AA1 T
+ex:409;EH1 K S
+v:410;IY1
+by:416;AY1
+from:422;AH1 M
+have:423;AE1 V
+su:424;UW1
+this:428;IH1 S
+al:435;AE1 L
+le:443;
+ab:450;AE1 B
+can:460;AE1 N
+his:465;IH1 Z
+do:466;UW1
+go:467;OW1
+has:468;AE1 Z
+sa:473;AA1
+j:474;EY1
+but:475;AH1 T
+wor:476;AO1 R
+all:477;AO1 L
+k:479;EY1
+will:481;IH1 L
+they:484;EY1
+ne:497;IY1
+me:502;IY1
+out:503;AW1 T
+who:508;UW1
+up:510;AH1 P
+their:511;EH1 R
+ad:512;AE1 D
+us:514;AH1 S
+more:517;AO1 R
+so:523;OW1
+one:530;AH1 N
+said:531;EH1 D
+your:534;AO1 R
+which:543;IH1 CH
+im:545;IH1 M
+about:546;AW1 T
+were:547;ER1
+had:550;AE1 D
+en:551;EH1 N
+comp:552;AA1 M P
+un:555;AH1 N
+ag:556;AE1 G
+would:561;UH1 D
+off:572;AO1 F
+te:573;IY1
+res:581;EY1 Z
+man:582;AE1 N
+per:583;ER1
+other:584;AH1 DH ER0
+been:587;IH1 N
+like:588;AY1 K
+dis:595;IH1 S
+any:597;EH1 N IY0
+app:598;AE1 P
+them:606;EH1 M
+her:607;ER1
+ar:610;AA1 R
+if:611;IH1 F
+there:612;EH1 R
+year:614;IH1 R
+my:616;AY1
+some:617;AH1 M
+when:618;EH1 N
+than:621;AE1 N
+over:625;OW1 V ER0
+qu:627;UW1
+also:635;AO1 L S OW0
+part:636;AA1 R T
+bec:639;EH1 K
+time:640;AY1 M
+what:644;AH1 T
+no:645;OW1
+new:649;UW1
+get:651;EH1 T
+just:655;AH1 S T
+into:656;IH1 N T UW0
+people:661;IY1 P AH0 L
+pre:662;IY1
+its:663;IH1 T S
+rec:664;EH1 K
+work:670;ER1 K
+she:673;IY1
+our:674;AW1 ER0
+him:683;IH1 M
+ro:686;OW1
+only:691;OW1 N L IY0
+how:703;AW1
+after:706;AE1 F T ER0
+play:711;EY1
+could:714;UH1 D
+am:716;AE1 M
+first:717;ER1 S T
+act:719;AE1 K T
+comm:725;AA1 M
+fe:730;EY1
+bet:731;EH1 T
+two:734;UW1
+back:736;AE1 K
+under:739;AH1 N D ER0
+may:743;EY1
+po:745;OW1
+des:748;EH1 S
+most:749;OW1 S T
+did:750;IH1 D
+add:751;AE1 D
+inc:753;IH1 NG K
+pol:755;AO1 L
+again:757;EH1 N
+know:760;OW1
+need:761;IY1 D
+cons:762;AA1 N Z
+co:763;OW1
+want:765;AA1 N T
+see:766;IY1
+even:772;IY1 V IH0 N
+these:777;IY1 Z
+use:779;UW1 S
+because:780;AO1 Z
+now:783;AW1
+make:787;EY1 K
+then:788;EH1 N
+every:790;EH1 V ER0 IY0
+sec:792;EH1 K
+em:795;EH1 M
+look:804;UH1 K
+where:810;EH1 R
+years:812;IH1 R Z
+diff:814;IH1 F
+should:815;UH1 D
+rem:816;EH1 M
+ev:819;EH1 V
+right:826;AY1 T
+sy:827;AY1
+through:832;UW1
+way:835;EY1
+don:836;AA1 N
+ass:840;AE1 S
+reg:842;EH1 G
+very:845;EH1 R IY0
+imp:848;IH1 M P
+sub:850;AH1 B
+being:852;IY1 IH0 NG
+does:857;AH1 Z
+down:866;AW1 N
+many:867;EH1 N IY0
+call:869;AO1 L
+ph:872;IY1 EY1 CH
+dec:875;EH1 K
+before:878;AO1 R
+well:880;EH1 L
+much:881;AH1 CH
+those:883;OW1 Z
+such:884;AH1 CH
+ke:885;EH1
+end:886;EH1 N D
+long:890;AO1 NG
+think:892;IH1 NG K
+bel:894;EH1 L
+own:898;OW1 N
+set:900;EH1 T
+show:905;OW1
+pres:906;EH1 Z
+say:910;EY1
+gu:915;UW1
+ent:920;EH1 N T
+good:922;UH1 D
+start:923;AA1 R T
+made:925;EY1 D
+ac:936;EY1 S IY1
+mon:937;OW1 N
+last:938;AE1 S T
+stud:941;AH1 D
+min:949;IH1 N
+mod:953;AO1 D
+count:954;AW1 N T
+fin:957;IH1 N
+point:966;OY1 N T
+sur:969;ER1
+used:973;UW1 Z D
+same:976;EY1 M
+while:981;AY1 L
+game:983;EY1 M
+sim:985;IH1 M
+inter:987;ER1
+report:989;AO1 R T
+still:991;IH1 L
+here:994;IY1 R
+world:995;ER1 L D
+though:996;OW1
+ret:1005;EH1 T
+ref:1006;EH1 F
+trans:1007;AE1 N Z
+take:1011;EY1 K
+going:1016;OW1 IH0 NG
+spec:1020;EH1 K
+hand:1021;AE1 N D
+between:1022;IY1 N
+ear:1027;IY1 R
+against:1028;EH1 N S T
+high:1029;AY1
+op:1034;AA1 P
+ins:1035;IH1 N Z
+help:1037;EH1 L P
+found:1043;AW1 N D
+person:1048;ER1 S AH0 N
+great:1049;EY1 T
+sign:1051;AY1 N
+run:1057;AH1 N
+ter:1059;ER1
+follow:1061;AA1 L OW0
+find:1064;AY1 N D
+team:1074;IY1 M
+system:1080;IH1 S T AH0 M
+lead:1085;EH1 D
+around:1088;AW1 N D
+govern:1089;AH1 V ER0 N
+cur:1090;ER1
+cour:1093;UW1 R
+car:1097;AA1 R
+law:1099;AO1
+read:1100;EH1 D
+real:1103;IY1 L
+support:1104;AO1 R T
+really:1107;IH1 L IY0
+fact:1109;AE1 K T
+day:1110;EY1
+both:1111;OW1 TH
+serv:1113;ER1 V
+three:1115;IY1
+med:1117;EH1 D
+each:1123;IY1 CH
+che:1125;EY1
+rep:1128;EH1 P
+met:1138;EH1 T
+says:1139;EH1 Z
+during:1141;UH1 R IH0 NG
+happ:1147;AE1 P
+char:1149;AA1 R
+cor:1162;AO1 R
+too:1165;UW1
+public:1171;AH1 B L IH0 K
+war:1175;AO1 R
+power:1176;AW1 ER0
+few:1178;UW1
+different:1180;IH1 F ER0 AH0 N T
+state:1181;EY1 T
+head:1182;EH1 D
+poss:1184;AO1 S
+stat:1185;AE1 T
+val:1188;AE1 L
+another:1194;AH1 DH ER0
+av:1196;IY1
+child:1200;AY1 L D
+since:1201;IH1 N S
+life:1204;AY1 F
+develop:1205;EH1 L AH0 P
+dep:1207;EH1 P
+pass:1208;AE1 S
+turn:1210;ER1 N
+second:1218;EH1 K AH0 N D
+disc:1221;IH1 S K
+something:1223;AH1 M TH IH0 NG
+ed:1225;EH1 D
+fil:1226;IH1 L
+month:1227;AH1 N TH
+government:1230;AH1 V ER0 N M AH0 N T
+without:1231;AW1 T
+leg:1232;EH1 G
+put:1234;UH1 T
+quest:1235;EH1 S T
+never:1239;EH1 V ER0
+level:1241;EH1 V AH0 L
+art:1242;AA1 R T
+things:1243;IH1 NG Z
+might:1244;AY1 T
+effect:1245;EH1 K T
+cent:1247;EH1 N T
+allow:1249;AW1
+belie:1250;AY1
+feel:1254;IY1 L
+result:1255;AH1 L T
+lot:1256;AA1 T
+fun:1257;AH1 N
+ty:1259;AY1
+using:1262;UW1 Z IH0 NG
+big:1263;IH1 G
+ask:1265;AE1 S K
+best:1266;EH1 S T
+opp:1269;AA1 P
+number:1271;AH1 M B ER0
+ca:1275;AH1
+must:1276;AH1 S T
+direct:1277;EH1 K T
+open:1280;OW1 P AH0 N
+post:1281;OW1 S T
+come:1282;AH1 M
+seem:1283;IY1 M
+week:1285;IY1 K
+el:1288;EH1 L
+far:1290;AA1 R
+pri:1293;AY1
+place:1295;EY1 S
+form:1296;AO1 R M
+told:1297;OW1 L D
+stand:1302;AE1 N D
+next:1306;EH1 K S T
+pur:1308;ER1
+let:1309;EH1 T
+little:1310;IH1 T AH0 L
+hum:1311;AH1 M
+i:1312;AY1
+mark:1317;AA1 R K
+information:1321;EY1 SH AH0 N
+bus:1323;AH1 S
+invest:1325;EH1 S T
+hard:1327;AA1 R D
+import:1330;AO1 R T
+appro:1331;AE1 P R OW0
+test:1332;EH1 S T
+tri:1333;AY1
+rest:1334;EH1 S T
+full:1336;UH1 L
+care:1337;EH1 R
+case:1339;EY1 S
+less:1342;EH1 S
+list:1351;IH1 S T
+top:1353;AA1 P
+home:1363;OW1 M
+left:1364;EH1 F T
+better:1365;EH1 T ER0
+data:1366;EY1 T AH0
+attack:1368;AE1 K
+bro:1379;OW1
+build:1382;IH1 L D
+main:1388;EY1 N
+including:1390;UW1 D IH0 NG
+got:1392;AA1 T
+interest:1393;IH1 N T AH0 R EH2 S T
+keep:1394;IY1 P
+class:1398;AE1 S
+small:1402;AO1 L
+ide:1405;AY1 D
+plan:1410;AE1 N
+percent:1411;EH1 N T
+camp:1413;AE1 M P
+pay:1414;EY1
+pos:1426;AA1 S
+process:1429;AA1 S EH2 S
+program:1430;OW1 G R AE2 M
+name:1438;EY1 M
+four:1440;AO1 R
+return:1441;ER1 N
+called:1444;AO1 L D
+move:1445;UW1 V
+group:1448;UW1 P
+men:1450;EH1 N
+cap:1451;AE1 P
+pat:1458;AE1 T
+current:1459;ER1 AH0 N T
+pop:1461;AA1 P
+always:1464;AO1 L W EY2 Z
+mil:1465;IH1 L
+women:1466;IH1 M AH0 N
+old:1468;OW1 L D
+near:1474;IH1 R
+free:1479;IY1
+design:1486;AY1 N
+change:1487;EY1 N JH
+chang:1488;AE1 NG
+bo:1489;OW1
+vis:1490;IH1 S
+book:1492;UH1 K
+kill:1494;IH1 L
+away:1497;EY1
+able:1498;EY1 B AH0 L
+country:1499;AH1 N T R IY0
+order:1502;AO1 R D ER0
+million:1510;IH1 L Y AH0 N
+thing:1517;IH1 NG
+why:1521;AY1
+school:1524;UW1 L
+days:1528;EY1 Z
+ann:1529;AE1 N
+health:1535;EH1 L TH
+sol:1540;AA1 L
+already:1541;EH1 D IY0
+friend:1545;EH1 N D
+least:1551;IY1 S T
+prom:1552;AA1 M
+dr:1553;AY1 V
+est:1556;EH1 S T
+tell:1560;EH1 L
+talk:1561;AO1 K
+until:1566;IH1 L
+later:1568;EY1 T ER0
+ve:1569;IY1
+view:1570;UW1
+word:1573;ER1 D
+cost:1575;AA1 S T
+enough:1576;AH1 F
+give:1577;IH1 V
+par:1582;AA1 R
+large:1588;AA1 R JH
+win:1592;IH1 N
+important:1593;AO1 R T AH0 N T
+business:1597;IH1 Z N AH0 S
+clear:1598;IH1 R
+expect:1607;EH1 K T
+kind:1611;AY1 N D
+mean:1612;IY1 N
+past:1613;AE1 S T
+dev:1614;EH1 V
+organ:1618;AO1 R G AH0 N
+del:1619;EH1 L
+perform:1620;AO1 R M
+story:1621;AO1 R IY0
+season:1622;IY1 Z AH0 N
+claim:1624;EY1 M
+came:1625;EY1 M
+within:1626;IH1 N
+line:1627;AY1 N
+project:1628;AA1 JH EH0 K T
+control:1630;OW1 L
+air:1633;EH1 R
+money:1637;AH1 N IY0
+family:1641;AE1 M AH0 L IY0
+making:1642;EY1 K IH0 NG
+bit:1643;IH1 T
+police:1644;IY1 S
+happen:1645;AE1 P AH0 N
+vers:1646;ER1 S
+sit:1650;IH1 T
+sure:1654;UH1 R
+appear:1656;IH1 R
+light:1657;AY1 T
+es:1658;EH1 S
+water:1660;AO1 T ER0
+times:1661;AY1 M Z
+grow:1663;OW1
+company:1664;AH1 M P AH0 N IY2
+mar:1667;AA1 R
+example:1672;AE1 M P AH0 L
+fore:1674;AO1 R
+actually:1682;AE1 K CH UW2 AH0 L IY0
+ever:1683;EH1 V ER0
+tax:1687;AE1 K S
+major:1688;EY1 JH ER0
+often:1690;AO1 F T AH0 N
+human:1692;UW1 M AH0 N
+job:1693;AA1 B
+available:1695;EY1 L AH0 B AH0 L
+record:1700;AO1 R D
+sing:1702;IH1 NG
+news:1705;UW1 Z
+following:1708;AA1 L OW0 IH0 NG
+hour:1711;AW1 ER0
+sex:1714;EH1 K S
+become:1716;AH1 M
+took:1718;UH1 K
+having:1719;AE1 V IH0 NG
+product:1720;AA1 D AH0 K T
+means:1724;IY1 N Z
+hop:1725;AA1 P
+cho:1727;OW1
+certain:1728;ER1 T AH0 N
+non:1729;AA1 N
+deal:1730;IY1 L
+side:1735;AY1 D
+reason:1738;IY1 Z AH0 N
+elect:1742;EH1 K T
+official:1743;IH1 SH AH0 L
+possible:1744;AA1 S AH0 B AH0 L
+hold:1745;OW1 L D
+city:1748;IH1 T IY0
+sever:1750;EH1 V ER0
+children:1751;IH1 L D R AH0 N
+once:1752;AH1 N S
+night:1755;AY1 T
+done:1760;AH1 N
+lim:1761;IH1 M
+working:1762;ER1 K IH0 NG
+body:1767;AA1 D IY0
+whether:1771;EH1 DH ER0
+author:1772;AO1 TH ER0
+proper:1774;AA1 P ER0
+seen:1775;IY1 N
+fac:1777;AE1 K
+course:1781;AO1 R S
+event:1785;EH1 N T
+eng:1786;EH1 NG
+pot:1787;AA1 T
+intern:1788;IH1 N T ER0 N
+short:1790;AO1 R T
+dam:1801;AE1 M
+press:1803;EH1 S
+doing:1804;UW1 IH0 NG
+protect:1805;EH1 K T
+thought:1807;AO1 T
+question:1808;EH1 S CH AH0 N
+several:1811;EH1 V ER0 AH0 L
+given:1813;IH1 V AH0 N
+fund:1814;AH1 N D
+went:1816;EH1 N T
+meet:1826;IY1 T
+games:1830;EY1 M Z
+understand:1833;AE1 N D
+makes:1838;EY1 K S
+won:1839;AH1 N
+love:1842;AH1 V
+complete:1844;IY1 T
+account:1848;AW1 N T
+ident:1852;EH1 N T
+others:1854;AH1 DH ER0 Z
+prob:1861;AA1 B
+young:1862;AH1 NG
+along:1863;AO1 NG
+according:1864;AO1 R D IH0 NG
+yet:1865;EH1 T
+members:1866;EH1 M B ER0 Z
+among:1871;AH1 NG
+employ:1873;OY1
+low:1877;OW1
+likely:1884;AY1 K L IY0
+ant:1885;AE1 N T
+ben:1888;EH1 N
+president:1893;EH1 Z IH0 D AH0 N T
+access:1895;AE1 K S EH2 S
+known:1900;OW1 N
+early:1903;ER1 L IY0
+fight:1907;AY1 T
+sent:1908;EH1 N T
+today:1909;EY1
+market:1910;AA1 R K AH0 T
+based:1912;EY1 S T
+strong:1913;AO1 NG
+deb:1915;EH1 B
+problem:1917;AA1 B L AH0 M
+death:1918;EH1 TH
+social:1919;OW1 SH AH0 L
+campaign:1923;EY1 N
+er:1931;
+months:1933;AH1 N TH S
+five:1936;AY1 V
+players:1938;EY1 ER0 Z
+success:1943;EH1 S
+present:1944;EH1 Z AH0 N T
+sugg:1947;AH1 G
+particular:1948;IH1 K Y AH0 L ER0
+try:1949;AY1
+suggest:1950;EH1 S T
+land:1956;AE1 N D
+local:1957;OW1 K AH0 L
+political:1964;IH1 T AH0 K AH0 L
+asked:1965;AE1 S K T
+former:1966;AO1 R M ER0
+close:1969;OW1 S
+getting:1972;EH1 T IH0 NG
+across:1973;AO1 S
+comb:1974;OW1 M
+believe:1975;IY1 V
+z:1976;IY1
+together:1978;EH1 DH ER0
+individual:1981;IH1 JH AH0 W AH0 L
+face:1986;EY1 S
+value:1988;AE1 L Y UW0
+area:1989;EH1 R IY0 AH0
+writ:1991;IH1 T
+key:1994;IY1
+mom:1995;AA1 M
+anything:1997;EH1 N IY0 TH IH2 NG
+experience:1998;IH1 R IY0 AH0 N S
+mind:2000;AY1 N D
+future:2003;UW1 CH ER0
+cut:2005;AH1 T
+tot:2006;AA1 T
+video:2008;IH1 D IY0 OW0
+net:2010;EH1 T
+connect:2018;EH1 K T
+above:2029;AH1 V
+amount:2033;AW1 N T
+either:2035;IY1 DH ER0
+anal:2037;EY1 N AH0 L
+fail:2038;EY1 L
+special:2041;EH1 SH AH0 L
+black:2042;AE1 K
+looking:2045;UH1 K IH0 NG
+fire:2046;AY1 ER0
+almost:2048;AO1 L M OW2 S T
+study:2050;AH1 D IY0
+miss:2051;IH1 S
+tre:2054;EY1
+community:2055;UW1 N AH0 T IY0
+media:2056;IY1 D IY0 AH0
+food:2057;UW1 D
+comes:2058;AH1 M Z
+single:2060;IH1 NG G AH0 L
+half:2063;AE1 F
+started:2067;AA1 R T AH0 D
+quick:2068;IH1 K
+issue:2071;IH1 SH UW0
+else:2073;EH1 L S
+consider:2074;IH1 D ER0
+taken:2077;EY1 K AH0 N
+true:2081;UW1
+wa:2082;AA1
+ago:2084;OW1
+mess:2085;EH1 S
+added:2087;AE1 D IH0 D
+bad:2089;AE1 D
+similar:2092;IH1 M AH0 L ER0
+character:2095;EH1 R IH0 K T ER0
+reported:2098;AO1 R T AH0 D
+type:2099;AY1 P
+entire:2104;AY1 ER0
+history:2106;IH1 S T ER0 IY0
+live:2107;AY1 V
+trying:2111;AY1 IH0 NG
+discuss:2112;AH1 S
+self:2116;EH1 L F
+room:2119;UW1 M
+fall:2121;AO1 L
+et:2123;EH1 T
+x:2124;EH1 K S
+idea:2126;IY1 AH0
+sound:2128;AW1 N D
+someone:2130;AH1 M W AH2 N
+object:2134;AA1 B JH EH0 K T
+player:2137;EY1 ER0
+rather:2138;AE1 DH ER0
+service:2139;ER1 V AH0 S
+mor:2146;AO1 R
+nothing:2147;AH1 TH IH0 NG
+provide:2148;AY1 D
+party:2151;AA1 R T IY0
+exist:2152;IH1 S T
+mag:2153;AE1 G
+house:2156;AW1 S
+behind:2157;AY1 N D
+however:2158;EH1 V ER0
+sum:2160;AH1 M
+function:2163;AH1 NG K SH AH0 N
+front:2166;AH1 N T
+series:2168;IH1 R IY0 Z
+opt:2172;AA1 P T
+points:2173;OY1 N T S
+below:2174;OW1
+specific:2176;IH1 F IH0 K
+ra:2179;AA1
+previous:2180;IY1 V IY0 AH0 S
+pret:2181;EH1 T
+custom:2183;AH1 S T AH0 M
+court:2184;AO1 R T
+whole:2187;OW1 L
+treat:2190;IY1 T
+probably:2192;AA1 B AH0 B L IY2
+learn:2193;ER1 N
+version:2196;ER1 ZH AH0 N
+check:2198;EH1 K
+doc:2205;AA1 K
+deter:2206;ER1
+super:2208;UW1 P ER0
+address:2209;AE1 D R EH2 S
+field:2214;IY1 L D
+feat:2218;IY1 T
+common:2219;AA1 M AH0 N
+begin:2221;IH1 N
+bring:2222;IH1 NG
+action:2223;AE1 K SH AH0 N
+wanted:2227;AO1 N T IH0 D
+attempt:2230;EH1 M P T
+due:2233;UW1
+shall:2236;AE1 L
+six:2237;IH1 K S
+step:2239;EH1 P
+pub:2240;AH1 B
+himself:2241;EH1 L F
+cop:2243;AA1 P
+dest:2244;EH1 S T
+stop:2245;AA1 P
+lab:2248;AE1 B
+hours:2250;AW1 ER0 Z
+create:2251;EY1 T
+further:2252;ER1 DH ER0
+national:2260;AE1 SH AH0 N AH0 L
+taking:2263;EY1 K IH0 NG
+red:2266;EH1 D
+research:2267;ER1 CH
+break:2270;EY1 K
+space:2272;EY1 S
+recent:2274;IY1 S AH0 N T
+general:2276;EH1 N ER0 AH0 L
+hit:2277;IH1 T
+period:2278;IH1 R IY0 AH0 D
+everything:2279;EH1 V R IY0 TH IH2 NG
+saying:2282;EY1 IH0 NG
+cou:2284;UW1
+cult:2285;AH1 L T
+include:2291;UW1 D
+position:2292;IH1 SH AH0 N
+imm:2296;IH1 M
+pick:2298;IH1 K
+matter:2300;AE1 T ER0
+cannot:2314;AE1 N AA0 T
+relations:2316;EY1 SH AH0 N Z
+bar:2318;AA1 R
+ground:2323;AW1 N D
+security:2324;UH1 R AH0 T IY0
+concern:2328;ER1 N
+white:2330;AY1 T
+seems:2331;IY1 M Z
+fig:2336;IH1 G
+sus:2341;AH1 S
+watch:2342;AA1 CH
+wind:2344;AY1 N D
+itself:2346;EH1 L F
+mass:2347;AE1 S
+abs:2352;EY1 B IY1 EH1 S
