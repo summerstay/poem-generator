@@ -57,3 +57,30 @@ As heaven is to the soul; full,
 
 Then, fear! these feet shall pull.
 
+---------------------------------------
+
+Another example:
+
+ Many warriors died attempting to cross this,
+ 
+The first two realms are the Garden abyss,
+
+The Underworld, which is where mortals never,
+
+The World Tree or Yggdr however,
+
+The World's Heart, where the other,
+
+Folk lived and slept and were mother.
+
+All things have five faces. The first,
+
+I can see, the Garden is worst,
+
+The Underworld or the Underworld, this part,
+
+My friend, is not the worst heart,
+
+But the world's heart of the life;
+
+Or life and death and heart and wife.
