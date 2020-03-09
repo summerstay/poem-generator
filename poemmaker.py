@@ -5,7 +5,8 @@ import pickle
 import random
 import os
 import copy
-    
+import win_unicode_console 
+  
 def top_k_logits(logits, k):
     if k == 0:
         return logits
@@ -13,7 +14,26 @@ def top_k_logits(logits, k):
     #print(indices)
     min_values = values[:, -1]
     return torch.where(logits < min_values, torch.ones_like(logits, dtype=logits.dtype) * -1e10, logits), min_values
- 
+
+def top_p_logits(logits, temperature, top_p):
+    logits = logits / temperature
+    sorted_logits, sorted_indices = torch.sort(logits, descending=True)
+    cumulative_probs = torch.cumsum(F.softmax(sorted_logits, dim=-1), dim=-1)
+
+    # Remove tokens with cumulative probability above the threshold
+    sorted_indices_to_remove = cumulative_probs >= top_p
+    # Shift the indices to the right to keep also the first token above the threshold
+    sorted_indices_to_remove[..., 1:] = sorted_indices_to_remove[..., :-1].clone()
+    sorted_indices_to_remove[..., 0] = 0
+    sorted_indices_to_remove = torch.tensor(sorted_indices_to_remove, dtype=torch.uint8)
+    
+    zero_tensor =  torch.zeros_like(logits, dtype=torch.uint8)
+
+    indices_to_remove =zero_tensor.scatter_( dim=-1, index=sorted_indices, src=sorted_indices_to_remove )
+    filter_value=-float('Inf')
+    logits[indices_to_remove] = filter_value
+    return logits
+
 #sound_file = open("sound.txt", "r")
 #rhymeset_file = open("rhymesets.txt", "w")
 #wordlist = []
@@ -34,6 +54,10 @@ def top_k_logits(logits, k):
 #    rhymesets.append(rhymeset)
 #pickle.dump( rhymesets, open( "rhymesets.p", "wb" ) )
 #os.system("$OutputEncoding = [console]::InputEncoding = [console]::OutputEncoding = New-Object System.Text.UTF8Encoding")
+
+#win_unicode_console.enable()
+temperature = 0.9
+top_p = 0.9
 rhymesets = pickle.load( open( "rhymesets.p", "rb" ) )
 rhyme_mat = [0] * 50257
 big_rhymesets = [[0]] * 50257
@@ -48,7 +72,7 @@ boring_rhymes = [" a"," an"," it"," is"," as"," at"," was"," of"," at"," that",
                  " has"," your"," my"," his"," their"," on"," for"," its"," to",
                  " from"," if"," ur"," re"," our"," un"," dis"," diss"," mis",
                  " wat"," com"," comm"," psych"," lol"," vis"," al"," los"," pol",
-                 " bis"," up", " la"," sa"," ha"," mah",
+                 " bis"," up", " la"," sa"," ha"," mah", " wal", " lat", " ot", " sol",
                  " b"," c"," d"," e"," f"," g"," h"," i"," j"," k"," l"," m",
                  " n"," o"," p"," q"," r"," s"," t"," u"," v"," w"," x"," y"," z"]
 
@@ -62,6 +86,7 @@ for rhyme in boring_rhymes:
 #model = GPT2LMHeadModel.from_pretrained("gpt2-xl")
 model = GPT2LMHeadModel.from_pretrained("poetry")
 #model = GPT2LMHeadModel.from_pretrained("gpt2")
+#model = GPT2LMHeadModel.from_pretrained("model_v5")
 
 print("model loaded")
 
@@ -87,7 +112,8 @@ with torch.no_grad():
         while jj < line_length*lines+1:
             return_flag = 0
             logits, past = model(**inputs, past=past)
-            logits = logits[:, -1, :] 
+            logits = logits[:, -1, :]
+            
             # prevent <|endoftext|>, and line breaks in the middle of a line 
             logits[0,50256]=-1e10
             logits[0,27]=-1e10 
@@ -168,7 +194,8 @@ with torch.no_grad():
                 token_list = []
 
             #reduce the chaos a bit
-            logits, values = top_k_logits(logits, k=30)
+            logits = top_p_logits(logits,temperature,top_p) 
+            #logits, values = top_k_logits(logits, k=30)
             log_probs = F.softmax(logits, dim=-1)
             next_token = torch.multinomial(log_probs, num_samples=1)
             token_list.append(next_token)
