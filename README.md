@@ -1,4 +1,7 @@
 # poem-generator
+
+*** I have moved on to working on a better way to do this project in https://github.com/summerstay/true_poetry. That project has meter as well as rhyme constraints, which makes a big improvement.
+
 Generates rhyming poetry using Huggingface GPT-2
 
 requires torch, transformers, pickle, and copy
@@ -9,7 +12,7 @@ model = GPT2LMHeadModel.from_pretrained("poetry")
 
 with
 
-model = GPT2LMHeadModel.from_pretrained("gpt2")
+model = GPT2LMHeadModel.from_pretrained("gpt2-xl")
 
 If you use Gwern's finetuned poetry GPT-2 model, the results are better, though.
 
