@@ -6,6 +6,8 @@ import random
 import os
 import copy
 import win_unicode_console 
+import warnings
+warnings.filterwarnings("ignore", category=UserWarning)
   
 def top_k_logits(logits, k):
     if k == 0:
@@ -92,9 +94,9 @@ print("model loaded")
 
 with torch.no_grad():
     while True:
-        prompt = input("starting prompt: ")
+        prompt = input("starting prompt (one or two paragraphs of text recommended): ")
         #line_length = random.randrange(1,9) 
-        line_length =int(input("line length: "))
+        line_length =int(input("line length in tokens (at least 8 recommended): "))
         lines =int(input("lines: "))
         
         indexed_tokens = tokenizer.encode(prompt)
@@ -189,8 +191,11 @@ with torch.no_grad():
             if (jj % (line_length)) == line_length-1:  
                 logits[0,:]=-1e10
                 logits[0,198]=100
-                for token in token_list:
-                    print(tokenizer.decode(token),end="")
+                if len(token_list)>0:
+                    for token in token_list:
+                        print(tokenizer.decode(token),end="")
+                else:
+                    print("NOTHING GENERATED. Please try again with a different prompt.")
                 token_list = []
 
             #reduce the chaos a bit
